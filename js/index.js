@@ -1,6 +1,5 @@
 function start(){
-    alert('Break out game made in Visual studio code by Mohammad Saadman Nuheen(MSN)
-\nUse A and D or Right and Left arrow keys to move the paddle!');
+    alert('Break out game made in Visual studio code by Mohammad Saadman Nuheen(MSN) \nUse A and D or Right and Left arrow keys to move the paddle!');
     var w = 750;
     var h = window.innerHeight - 20;
     var c = document.getElementById('c');
